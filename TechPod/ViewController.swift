@@ -27,7 +27,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         table.delegate = self
         songNameArray = ["カノン", "エリーゼのために", "G線上のアリア"]
         
-        fileNameArray = ["cannon.mp3", "elese", "aria"]
+        fileNameArray = ["cannon", "elese", "aria"]
         
         imageNameArray = ["Pachelbel.jpg", "Beethoven.jpg", "Bach.jpg"]
         
